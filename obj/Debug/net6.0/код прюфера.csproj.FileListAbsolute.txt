@@ -1,0 +1,15 @@
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.csproj.AssemblyReference.cache
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.GeneratedMSBuildEditorConfig.editorconfig
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.AssemblyInfoInputs.cache
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.AssemblyInfo.cs
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.csproj.CoreCompileInputs.cache
+X:\УП 02\3 задание - Прюфер\код прюфера\bin\Debug\net6.0\код прюфера.exe
+X:\УП 02\3 задание - Прюфер\код прюфера\bin\Debug\net6.0\код прюфера.deps.json
+X:\УП 02\3 задание - Прюфер\код прюфера\bin\Debug\net6.0\код прюфера.runtimeconfig.json
+X:\УП 02\3 задание - Прюфер\код прюфера\bin\Debug\net6.0\код прюфера.dll
+X:\УП 02\3 задание - Прюфер\код прюфера\bin\Debug\net6.0\код прюфера.pdb
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.dll
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\refint\код прюфера.dll
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.pdb
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\код прюфера.genruntimeconfig.cache
+X:\УП 02\3 задание - Прюфер\код прюфера\obj\Debug\net6.0\ref\код прюфера.dll
